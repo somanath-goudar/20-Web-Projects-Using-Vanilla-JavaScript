@@ -1,1 +1,1 @@
-# 20-Web-Projects-Using-Vanilla-JavaScript
+# 20 Web Projects Using Vanilla JavaScript
