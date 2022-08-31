@@ -52,6 +52,7 @@ h2 {
   margin: 0 0 20px;
 }
 
+
 h3 {
   background-color: #fff;
   border-bottom: 1px solid #111;
@@ -67,4 +68,13 @@ h3 {
   justify-content: space-between;
   font-size: 20px;
   margin-bottom: 10px;
+}
+@media (max-width: 545px) {
+  .item-name {
+    font-size: 17px;
+  }
+  .item-money {
+    font-size: 17px;
+    margin-left: 10px;
+  }
 }
