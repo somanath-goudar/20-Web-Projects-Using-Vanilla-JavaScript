@@ -24,7 +24,7 @@ function checkEmail(input) {
   if (re.test(input.value.trim())) {
     showSuccess(input);
   } else {
-    showError(input, 'Enail is not valid');
+    showError(input, 'Email is not valid');
   }
 }
 
